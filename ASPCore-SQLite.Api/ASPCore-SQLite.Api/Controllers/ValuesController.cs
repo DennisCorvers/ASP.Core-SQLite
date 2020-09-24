@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ASPCore_SQLite.Controllers
+namespace ASPCore_SQLite.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

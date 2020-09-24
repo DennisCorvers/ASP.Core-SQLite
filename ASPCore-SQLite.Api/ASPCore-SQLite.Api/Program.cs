@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace ASPCore_SQLite
+namespace ASPCore_SQLite.Api
 {
     public class Program
     {
